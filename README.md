@@ -1,4 +1,4 @@
-Here are some useful materials on System Design
+Materials on System Design
 
 Check - In 
 
