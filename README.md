@@ -1,5 +1,5 @@
 
-Check these 
+Check these -
 
 https://kps.hashnode.dev/system-design-the-complete-course#heading-database-replication
 
